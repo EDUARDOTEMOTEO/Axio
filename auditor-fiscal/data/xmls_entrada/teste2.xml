@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&#13;</para>
+  <para>&lt;nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"&gt;&#13;</para>
+  <para>    &lt;NFe&gt;&#13;</para>
+  <para>        &lt;infNFe Id="NFe35200312345678000195550010000000011123456789" versao="4.00"&gt;&#13;</para>
+  <para>            &lt;det nItem="1"&gt;&#13;</para>
+  <para>                &lt;prod&gt;&#13;</para>
+  <para>                    &lt;cProd&gt;001&lt;/cProd&gt;&#13;</para>
+  <para>                    &lt;xProd&gt;PECA DE TESTE AUTOMOTIVA&lt;/xProd&gt;&#13;</para>
+  <para>                    &lt;NCM&gt;87089990&lt;/NCM&gt;&#13;</para>
+  <para>                    &lt;CFOP&gt;5102&lt;/CFOP&gt;&#13;</para>
+  <para>                    &lt;vProd&gt;150.00&lt;/vProd&gt;&#13;</para>
+  <para>                &lt;/prod&gt;&#13;</para>
+  <para>                &lt;imposto&gt;&#13;</para>
+  <para>                    &lt;ICMS&gt;&#13;</para>
+  <para>                        &lt;ICMS00&gt;&#13;</para>
+  <para>                            &lt;CST&gt;00&lt;/CST&gt;&#13;</para>
+  <para>                            &lt;pICMS&gt;18.00&lt;/pICMS&gt;&#13;</para>
+  <para>                        &lt;/ICMS00&gt;&#13;</para>
+  <para>                    &lt;/ICMS&gt;&#13;</para>
+  <para>                    &lt;PIS&gt;&#13;</para>
+  <para>                        &lt;PISOutr&gt;&#13;</para>
+  <para>                            &lt;CST&gt;01&lt;/CST&gt;&#13;</para>
+  <para>                        &lt;/PISOutr&gt;&#13;</para>
+  <para>                    &lt;/PIS&gt;&#13;</para>
+  <para>                    &lt;COFINS&gt;&#13;</para>
+  <para>                        &lt;COFINSOutr&gt;&#13;</para>
+  <para>                            &lt;CST&gt;01&lt;/CST&gt;&#13;</para>
+  <para>                        &lt;/COFINSOutr&gt;&#13;</para>
+  <para>                    &lt;/COFINS&gt;&#13;</para>
+  <para>                &lt;/imposto&gt;&#13;</para>
+  <para>            &lt;/det&gt;&#13;</para>
+  <para>        &lt;/infNFe&gt;&#13;</para>
+  <para>    &lt;/NFe&gt;&#13;</para>
+  <para>&lt;/nfeProc&gt;</para>
+</article>
