@@ -475,3 +475,15 @@ def validar_item_fiscal(
                 })
 
     return alertas
+from engine.registry import obter_estrategia
+
+# Importação dos módulos para ativar os decorators de registo
+import engine.varejo.autopecas
+
+def validar_item_fiscal(prod: dict, regime_tributario: str = "Simples Nacional", setor: str = "VAREJO", subgrupo: str = "AUTOPECAS", **kwargs) -> list:
+    """Roteia o item fiscal diretamente para a estratégia do subgrupo correspondente."""
+    estrategia = obter_estrategia(setor, subgrupo)
+    if estrategia:
+        return estrategia.auditar_item(prod, regime_tributario, **kwargs)
+    
+    return []

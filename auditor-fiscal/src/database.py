@@ -55,19 +55,20 @@ def init_db():
     conn.commit()
     conn.close()
 
-def cadastrar_empresa(cnpj, nome):
+def cadastrar_empresa(cnpj, razao_social, regime_tributario, setor_atv="VAREJO", cnae_principal=""):
     """Regista uma nova empresa na base de dados."""
     init_db()
     conn = sqlite3.connect('auditorias_axio.db')
     cursor = conn.cursor()
     try:
-        cursor.execute('''
-            INSERT OR REPLACE INTO empresas (cnpj, nome, data_cadastro)
-            VALUES (?, ?, ?)
-        ''', (cnpj, nome, datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
+        cursor.execute("""
+            INSERT INTO empresas (cnpj, razao_social, regime_tributario, setor_atv, cnae_principal)
+            VALUES (?, ?, ?, ?, ?)
+        """, (cnpj, razao_social, regime_tributario, setor_atv, cnae_principal))
         conn.commit()
         return True
     except Exception as e:
+        print(f"Erro ao cadastrar empresa: {e}")
         return False
     finally:
         conn.close()
@@ -76,7 +77,7 @@ def obter_empresas_cadastradas():
     """Retorna todas as empresas cadastradas em formato DataFrame."""
     init_db()
     conn = sqlite3.connect('auditorias_axio.db')
-    df = pd.read_sql('SELECT * FROM empresas ORDER BY nome', conn)
+    df = pd.read_sql('SELECT * FROM empresas ORDER BY razao_social', conn)
     conn.close()
     return df
 
@@ -99,12 +100,17 @@ def salvar_registro_auditoria(cnpj_empresa, tipo_doc, nome_arquivo, status, impa
     
 
 def obter_historico_db(cnpj_empresa=None):
-    """Retorna o histórico de auditorias filtrado pelo CNPJ da empresa ativa."""
+    """Retorna o histórico de auditorias filtrado pelo CNPJ"""
     init_db()
     conn = sqlite3.connect('auditorias_axio.db')
-    if cnpj_empresa:
-        df = pd.read_sql('SELECT * FROM historico_auditorias WHERE cnpj_empresa = ? ORDER BY id DESC', conn, params=(cnpj_empresa,))
-    else:
-        df = pd.read_sql('SELECT * FROM historico_auditorias ORDER BY id DESC', conn)
-    conn.close()
+    df = pd.DataFrame()
+    try:
+        if cnpj_empresa:
+            df = pd.read_sql('SELECT * FROM historico_auditoria WHERE cnpj = ?', conn, params=(cnpj_empresa,))
+        else:
+            df = pd.read_sql('SELECT * FROM historico_auditoria ORDER BY data_hora DESC', conn)
+    except Exception as e:
+        print(f"Erro ao ler histórico: {e}")
+    finally:
+        conn.close()
     return df
