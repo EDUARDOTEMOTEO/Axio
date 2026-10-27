@@ -5,6 +5,7 @@ import io
 import zipfile
 import tempfile
 import requests
+import plotly.express as px
 API_URL = "http://127.0.0.1:8000"
 from src.database import salvar_registro_auditoria, obter_historico_db
 from src.xml_parser import extrair_dados_xml
@@ -27,18 +28,22 @@ def renderizar_tela_autenticacao():
     with aba_login:
         email = st.text_input("E-mail", key="login_email")
         senha = st.text_input("Senha", type="password", key="login_senha")
-        
+
         if st.button("Entrar no Sistema"):
-            resposta = requests.post(
-                f"{API_URL}/login",
-                data={"username": email, "password": senha}
-            )
-            if resposta.status_code == 200:
-                st.session_state["token"] = resposta.json()["access_token"]
-                st.success("Login realizado com sucesso!")
-                st.rerun()
-            else:
-                st.error("E-mail ou senha incorretos.")
+            try:
+                resposta = requests.post(
+                    f"{API_URL}/login",
+                    data={"username": email, "password": senha},
+                    timeout=3  # Evita que o Streamlit congele se a API estiver fora do ar
+                )
+                if resposta.status_code == 200:
+                    st.session_state["token"] = resposta.json()
+                    st.success("Login realizado com sucesso!")
+                    st.rerun()
+                else:
+                    st.error("E-mail ou senha incorretos.")
+            except requests.exceptions.RequestException:
+                st.error("O servidor backend não respondeu a tempo. Usa o 'Modo Demonstração' acima.")
 
     with aba_cadastro:
         razao_social = st.text_input("Razão Social", key="cad_razao")
@@ -562,32 +567,110 @@ if uploaded_files:
         st.dataframe(df_cruzamento, use_container_width=True)
 else:
     st.warning("Aguardando o carregamento dos ficheiros (XML ou PDF) para iniciar a análise.")
-# ==========================================
-# DASHBOARD GRÁFICO DE INDICADORES FISCAIS
-# ==========================================
-st.markdown("### 📈 Dashboard Executivo de Indicadores Fiscais")
+# ---------------------------------------------------------------------
+# DASHBOARD EXECUTIVO DE INDICADORES FISCAIS (GRÁFICOS PLOTLY)
+# ---------------------------------------------------------------------
+st.markdown("---")
+st.title("📈 Dashboard Executivo de Indicadores Fiscais")
 
-col1, col2, col3 = st.columns(3)
+cnpj_ativo = st.session_state.get("cnpj_ativo")
 
-df_hist = obter_historico_db(cnpj_ativo)
-
-if not df_hist.empty:
-    total_auditado_qtd = len(df_hist)
-    total_irregularidades = len(df_hist[df_hist['status_auditoria'] != 'Tudo OK'])
-    total_impacto_risco = df_hist['impacto_financeiro'].sum()
-    
-    col1.metric("Total de Documentos Auditados", total_auditado_qtd)
-    col2.metric("Documentos com Irregularidade", total_irregularidades)
-    col3.metric("Impacto Financeiro Total na Mesa", f"R$ {total_impacto_risco:.2f}")
-    
-    st.markdown("#### 📊 Distribuição de Status das Auditorias")
-    status_counts = df_hist['status_auditoria'].value_counts()
-    st.bar_chart(status_counts)
+# 1. BUSCA DE HISTÓRICO (SUPORTA MODO DEMONSTRAÇÃO E API)
+if st.session_state.get("token") == "demo_token_avaliador":
+    dados_hist = [
+        {
+            "data_auditoria": "2026-10-26",
+            "produto_nome": "ÓLEO LUBRIFICANTE 20W50 1L",
+            "ncm": "27101911",
+            "cfop": "5102",
+            "tipo_alerta": "Oportunidade - Simples Nacional",
+            "mensagem": "Item Monofásico (PIS/COFINS). Segregue esta receita no PGDAS-D para recuperar/evitar bi-tributação."
+        },
+        {
+            "data_auditoria": "2026-10-26",
+            "produto_nome": "PASTILHA DE FREIO BROS 160",
+            "ncm": "87083090",
+            "cfop": "5405",
+            "tipo_alerta": "Oportunidade - Simples Nacional",
+            "mensagem": "Venda de mercadoria com ICMS-ST cobrado anteriormente. Exclua do cálculo do ICMS no PGDAS-D."
+        },
+        {
+            "data_auditoria": "2026-10-26",
+            "produto_nome": "AMORTECEDOR TRASEIRO MONO",
+            "ncm": "87088000",
+            "cfop": "5102",
+            "tipo_alerta": "Alerta - Cadastral",
+            "mensagem": "NCM sem alíquota monofásica mapeada. Verificar enquadramento na tabela TIPI."
+        }
+    ]
 else:
-    col1.metric("Total de Documentos Auditados", 0)
-    col2.metric("Documentos com Irregularidade", 0)
-    col3.metric("Impacto Financeiro Total na Mesa", "R$ 0.00")
-    st.info(f"💡 Nenhum histórico encontrado para a empresa selecionada ({st.session_state.get('empresa_ativa_nome', '')}). Carregue os documentos correspondentes.")
+    try:
+        headers = {"Authorization": f"Bearer {st.session_state.get('token', '')}"}
+        res_hist = requests.get(
+            f"{API_URL}/auditoria/historico",
+            headers=headers,
+            params={"cnpj": cnpj_ativo}
+        )
+        dados_hist = res_hist.json().get("historico", []) if res_hist.status_code == 200 else []
+    except Exception:
+        dados_hist = []
+
+# 2. RENDERIZAÇÃO DOS GRÁFICOS E INDICADORES
+if dados_hist:
+    df_dash = pd.DataFrame(dados_hist)
+
+    total_divergencias = len(df_dash)
+    total_produtos = df_dash['produto_nome'].nunique() if 'produto_nome' in df_dash.columns else 0
+    regime_exibicao = st.session_state.get("regime_ativo", "Simples Nacional")
+
+    col_kpi1, col_kpi2, col_kpi3 = st.columns(3)
+    col_kpi1.metric("Total de Apurações", total_divergencias)
+    col_kpi2.metric("Produtos Com Inconsistência", total_produtos)
+    col_kpi3.metric("Regime Fiscal Ativo", regime_exibicao)
+
+    st.write("")
+
+    col_graf1, col_graf2 = st.columns(2)
+
+    with col_graf1:
+        st.subheader("📌 Divergências por Tipo de Alerta")
+        if "tipo_alerta" in df_dash.columns:
+            df_tipos = df_dash['tipo_alerta'].value_counts().reset_index()
+            df_tipos.columns = ['Tipo de Alerta', 'Quantidade']
+            
+            fig_pizza = px.pie(
+                df_tipos, 
+                names='Tipo de Alerta', 
+                values='Quantidade',
+                hole=0.4,
+                color_discrete_sequence=px.colors.qualitative.Set3
+            )
+            fig_pizza.update_layout(margin=dict(t=20, b=20, l=10, r=10))
+            st.plotly_chart(fig_pizza, use_container_width=True)
+
+    with col_graf2:
+        st.subheader("🔍 Ocorrências por CFOP")
+        if "cfop" in df_dash.columns:
+            df_cfop = df_dash['cfop'].value_counts().reset_index()
+            df_cfop.columns = ['CFOP', 'Total']
+            
+            fig_bar = px.bar(
+                df_cfop, 
+                x='CFOP', 
+                y='Total',
+                text_auto=True,
+                color='Total',
+                color_continuous_scale='Viridis'
+            )
+            fig_bar.update_layout(margin=dict(t=20, b=20, l=10, r=10), showlegend=False)
+            st.plotly_chart(fig_bar, use_container_width=True)
+
+    st.subheader("📋 Histórico Detalhado das Divergências")
+    colunas_exibir = [col for col in ['data_auditoria', 'produto_nome', 'ncm', 'cfop', 'tipo_alerta', 'mensagem'] if col in df_dash.columns]
+    st.dataframe(df_dash[colunas_exibir], use_container_width=True)
+
+else:
+    st.info(f"💡 Nenhum histórico registrado no banco para a empresa ativa ({st.session_state.get('empresa_ativa_nome', 'Selecionada')}). Execute uma auditoria para alimentar o dashboard.")
 
     # Opção de Upload de Ficheiro ZIP em Lote
 st.sidebar.markdown("---")

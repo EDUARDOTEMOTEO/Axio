@@ -1,6 +1,8 @@
 import os
+import xml.etree.ElementTree as ET
 from src.xml_parser import extrair_dados_xml
 from src.tax_rules import auditar_produto  # Import com o nome correto da função
+from src.tax_rules import validar_item_fiscal
 
 def executar_auditoria(pasta_entrada):
     """
@@ -122,6 +124,12 @@ def processar_xml_nfe(caminho_xml, regime_tributario="Lucro Presumido"):
                     "cfop": cfop,
                     "cst_pis": cst_pis
                 }
+                alertas = validar_item_fiscal(
+                    dados_produto, 
+                    regime_tributario=regime_tributario,
+                    uf_emit=uf_emit,
+                    uf_dest=uf_dest
+)
 
                 alertas = validar_regras_fiscais_por_regime(dados_produto, regime_tributario)
                 
@@ -151,3 +159,59 @@ def executar_auditoria(pasta_xmls, regime_tributario="Lucro Presumido"):
             relatorio_geral.extend(resultado)
             
     return relatorio_geral
+import os
+import xml.etree.ElementTree as ET
+from src.tax_rules import validar_item_fiscal
+
+def processar_xml_nfe(caminho_xml, regime_tributario="Simples Nacional"):
+    """Lê o XML e aplica as validações delegando para o tax_rules.py."""
+    try:
+        tree = ET.parse(caminho_xml)
+        root = tree.getroot()
+        ns = {'nfe': 'http://www.portalfiscal.inf.br/nfe'}
+        uf_emit = root.findtext('.//nfe:emit/nfe:enderEmit/nfe:UF', default='', namespaces=ns) or root.findtext('.//enderEmit/UF', default='')
+        uf_dest = root.findtext('.//nfe:dest/nfe:enderDest/nfe:UF', default='', namespaces=ns) or root.findtext('.//enderDest/UF', default='')
+        
+        relatorio_xml = []
+        det_elements = root.findall('.//nfe:det', ns) or root.findall('.//det')
+            
+        for det in det_elements:
+            prod_node = det.find('nfe:prod', ns) if det.find('nfe:prod', ns) is not None else det.find('prod')
+            imposto_node = det.find('nfe:imposto', ns) if det.find('nfe:imposto', ns) is not None else det.find('imposto')
+            
+            if prod_node is not None:
+                x_prod = prod_node.findtext('nfe:xProd', default='', namespaces=ns) or prod_node.findtext('xProd', default='')
+                ncm = prod_node.findtext('nfe:NCM', default='', namespaces=ns) or prod_node.findtext('NCM', default='')
+                cfop = prod_node.findtext('nfe:CFOP', default='', namespaces=ns) or prod_node.findtext('CFOP', default='')
+                v_prod = prod_node.findtext('nfe:vProd', default='0.00', namespaces=ns) or prod_node.findtext('vProd', default='0.00')
+                
+                cst_pis = ""
+                if imposto_node is not None:
+                    pis_node = imposto_node.find('.//nfe:PIS', ns) or imposto_node.find('.//PIS')
+                    if pis_node is not None:
+                        for child in pis_node:
+                            cst_pis = child.findtext('nfe:CST', default='', namespaces=ns) or child.findtext('CST', default='')
+                            if cst_pis:
+                                break
+
+                dados_produto = {
+                    "x_prod": x_prod,
+                    "ncm": ncm,
+                    "cfop": cfop,
+                    "cst_pis": cst_pis,
+                    "v_prod": float(v_prod)
+                }
+
+                # Executa a inteligência fiscal do tax_rules.py
+                alertas = validar_item_fiscal(dados_produto, regime_tributario)
+                
+                if alertas:
+                    relatorio_xml.append({
+                        "produto": dados_produto,
+                        "alertas": alertas
+                    })
+                    
+        return relatorio_xml
+    except Exception as e:
+        print(f"Erro ao processar XML {caminho_xml}: {e}")
+        return []

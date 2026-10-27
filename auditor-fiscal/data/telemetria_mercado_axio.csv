@@ -1,0 +1,1001 @@
+﻿nota_id,empresa_id,segmento,regiao,tipo_contabilidade,regime_tributario,produto,ncm,cfop,valor_nota_rs,teve_divergencia,credito_recuperavel_rs,qtd_alertas,tipo_alerta_principal
+NF-000101,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,20010.0,True,170.09,1,Oportunidade - PIS/COFINS Monofásico
+NF-000102,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,35995.0,True,305.96,1,Oportunidade - PIS/COFINS Monofásico
+NF-000103,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,16905.0,True,143.69,1,Oportunidade - PIS/COFINS Monofásico
+NF-000104,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,5124.0,True,215.2,2,Oportunidade - PIS/COFINS Monofásico
+NF-000105,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,2736.0,True,23.26,1,Oportunidade - PIS/COFINS Monofásico
+NF-000106,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5102,980.0,True,8.33,1,Oportunidade - PIS/COFINS Monofásico
+NF-000107,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,4296.0,True,36.52,1,Oportunidade - PIS/COFINS Monofásico
+NF-000108,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,6272.0,True,263.42,2,Oportunidade - PIS/COFINS Monofásico
+NF-000109,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,32430.0,True,275.66,1,Oportunidade - PIS/COFINS Monofásico
+NF-000110,EMP-0001,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,1428.0,True,59.980000000000004,2,Oportunidade - PIS/COFINS Monofásico
+NF-000201,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,744.0,False,0.0,0,Sem Inconsistência
+NF-000202,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,194.0,False,0.0,0,Sem Inconsistência
+NF-000203,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,2944.0,False,0.0,0,Sem Inconsistência
+NF-000204,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,1764.0,False,0.0,0,Sem Inconsistência
+NF-000205,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,382.0,False,0.0,0,Sem Inconsistência
+NF-000206,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,348.0,False,0.0,0,Sem Inconsistência
+NF-000207,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,108.0,False,0.0,0,Sem Inconsistência
+NF-000208,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,2016.0,False,0.0,0,Sem Inconsistência
+NF-000209,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,88.0,False,0.0,0,Sem Inconsistência
+NF-000210,EMP-0002,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,102.0,False,0.0,0,Sem Inconsistência
+NF-000301,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,914.0,False,0.0,0,Sem Inconsistência
+NF-000302,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1912.0,False,0.0,0,Sem Inconsistência
+NF-000303,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,1600.0,False,0.0,0,Sem Inconsistência
+NF-000304,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,220.5,False,0.0,0,Sem Inconsistência
+NF-000305,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,1494.0,False,0.0,0,Sem Inconsistência
+NF-000306,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,1624.5,False,0.0,0,Sem Inconsistência
+NF-000307,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,980.0,False,0.0,0,Sem Inconsistência
+NF-000308,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,362.0,False,0.0,0,Sem Inconsistência
+NF-000309,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,2648.0,False,0.0,0,Sem Inconsistência
+NF-000310,EMP-0003,Bebidas Frias,Sudeste,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,450.0,False,0.0,0,Sem Inconsistência
+NF-000401,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,81360.0,True,691.56,1,Oportunidade - PIS/COFINS Monofásico
+NF-000402,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5405,30240.0,True,1270.08,2,Oportunidade - PIS/COFINS Monofásico
+NF-000403,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,7296.0,True,306.44,2,Oportunidade - PIS/COFINS Monofásico
+NF-000404,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,17214.0,True,146.32,1,Oportunidade - PIS/COFINS Monofásico
+NF-000405,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,17860.0,True,750.1199999999999,2,Oportunidade - PIS/COFINS Monofásico
+NF-000406,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,93840.0,True,797.64,1,Oportunidade - PIS/COFINS Monofásico
+NF-000407,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,40630.0,True,345.36,1,Oportunidade - PIS/COFINS Monofásico
+NF-000408,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,30720.0,True,261.12,1,Oportunidade - PIS/COFINS Monofásico
+NF-000409,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,9272.0,True,389.42,2,Oportunidade - PIS/COFINS Monofásico
+NF-000410,EMP-0004,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,1785.0,True,15.17,1,Oportunidade - PIS/COFINS Monofásico
+NF-000501,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,17936.0,False,0.0,0,Sem Inconsistência
+NF-000502,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5102,935.0,False,0.0,0,Sem Inconsistência
+NF-000503,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,2698.0,False,0.0,0,Sem Inconsistência
+NF-000504,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,7372.0,False,0.0,0,Sem Inconsistência
+NF-000505,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,6574.0,False,0.0,0,Sem Inconsistência
+NF-000506,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,98400.0,False,0.0,0,Sem Inconsistência
+NF-000507,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5405,30515.0,False,0.0,0,Sem Inconsistência
+NF-000508,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,110160.0,False,0.0,0,Sem Inconsistência
+NF-000509,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5405,9605.0,False,0.0,0,Sem Inconsistência
+NF-000510,EMP-0005,Autopeças e Oficinas,Norte,Interna,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,8930.0,False,0.0,0,Sem Inconsistência
+NF-000601,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,920.0,False,0.0,0,Sem Inconsistência
+NF-000602,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1140.0,False,0.0,0,Sem Inconsistência
+NF-000603,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,7758.0,False,0.0,0,Sem Inconsistência
+NF-000604,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,3204.0,False,0.0,0,Sem Inconsistência
+NF-000605,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,350.0,False,0.0,0,Sem Inconsistência
+NF-000606,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,697.5,False,0.0,0,Sem Inconsistência
+NF-000607,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,587.5,False,0.0,0,Sem Inconsistência
+NF-000608,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,5796.0,False,0.0,0,Sem Inconsistência
+NF-000609,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,2556.0,False,0.0,0,Sem Inconsistência
+NF-000610,EMP-0006,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,42.5,False,0.0,0,Sem Inconsistência
+NF-000701,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,680.0,True,5.78,1,Oportunidade - PIS/COFINS Monofásico
+NF-000702,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,3904.0,True,163.96,2,Oportunidade - PIS/COFINS Monofásico
+NF-000703,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,1246.5,True,10.6,1,Oportunidade - PIS/COFINS Monofásico
+NF-000704,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,2536.0,True,106.52,2,Oportunidade - PIS/COFINS Monofásico
+NF-000705,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,160.0,True,6.720000000000001,2,Oportunidade - PIS/COFINS Monofásico
+NF-000706,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,684.0,True,5.81,1,Oportunidade - PIS/COFINS Monofásico
+NF-000707,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,90.0,True,0.77,1,Oportunidade - PIS/COFINS Monofásico
+NF-000708,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,514.0,True,21.59,2,Oportunidade - PIS/COFINS Monofásico
+NF-000709,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,3288.0,True,138.1,2,Oportunidade - PIS/COFINS Monofásico
+NF-000710,EMP-0007,Bebidas Frias,Nordeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,210.0,True,8.83,2,Oportunidade - PIS/COFINS Monofásico
+NF-000801,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,482.5,False,0.0,0,Sem Inconsistência
+NF-000802,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,7722.0,False,0.0,0,Sem Inconsistência
+NF-000803,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,797.5,False,0.0,0,Sem Inconsistência
+NF-000804,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,8820.0,False,0.0,0,Sem Inconsistência
+NF-000805,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,495.0,False,0.0,0,Sem Inconsistência
+NF-000806,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,500.0,False,0.0,0,Sem Inconsistência
+NF-000807,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1040.0,False,0.0,0,Sem Inconsistência
+NF-000808,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1112.5,False,0.0,0,Sem Inconsistência
+NF-000809,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,7650.0,False,0.0,0,Sem Inconsistência
+NF-000810,EMP-0008,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,2376.0,False,0.0,0,Sem Inconsistência
+NF-000901,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,2029.5,False,0.0,0,Sem Inconsistência
+NF-000902,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,290.0,False,0.0,0,Sem Inconsistência
+NF-000903,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,872.0,False,0.0,0,Sem Inconsistência
+NF-000904,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,468.0,False,0.0,0,Sem Inconsistência
+NF-000905,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,99.0,False,0.0,0,Sem Inconsistência
+NF-000906,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1616.0,False,0.0,0,Sem Inconsistência
+NF-000907,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,2160.0,False,0.0,0,Sem Inconsistência
+NF-000908,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,2196.0,False,0.0,0,Sem Inconsistência
+NF-000909,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,2133.0,False,0.0,0,Sem Inconsistência
+NF-000910,EMP-0009,Bebidas Frias,Sul,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,864.0,False,0.0,0,Sem Inconsistência
+NF-001001,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,1432.0,False,0.0,0,Sem Inconsistência
+NF-001002,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,348.0,False,0.0,0,Sem Inconsistência
+NF-001003,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,1831.5,False,0.0,0,Sem Inconsistência
+NF-001004,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,234.0,False,0.0,0,Sem Inconsistência
+NF-001005,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,682.0,False,0.0,0,Sem Inconsistência
+NF-001006,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,36.0,False,0.0,0,Sem Inconsistência
+NF-001007,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,1233.0,False,0.0,0,Sem Inconsistência
+NF-001008,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,276.0,False,0.0,0,Sem Inconsistência
+NF-001009,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,1980.0,False,0.0,0,Sem Inconsistência
+NF-001010,EMP-0010,Bebidas Frias,Nordeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,340.0,False,0.0,0,Sem Inconsistência
+NF-001101,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,4452.0,False,0.0,0,Sem Inconsistência
+NF-001102,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,6664.0,False,0.0,0,Sem Inconsistência
+NF-001103,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,31970.0,False,0.0,0,Sem Inconsistência
+NF-001104,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,5208.0,False,0.0,0,Sem Inconsistência
+NF-001105,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,13570.0,False,0.0,0,Sem Inconsistência
+NF-001106,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,12460.0,False,0.0,0,Sem Inconsistência
+NF-001107,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,48990.0,False,0.0,0,Sem Inconsistência
+NF-001108,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,10752.0,False,0.0,0,Sem Inconsistência
+NF-001109,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,4752.0,False,0.0,0,Sem Inconsistência
+NF-001110,EMP-0011,Farmácia e Cosméticos,Nordeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,50370.0,False,0.0,0,Sem Inconsistência
+NF-001201,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,29440.0,True,250.24,1,Oportunidade - PIS/COFINS Monofásico
+NF-001202,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,2784.0,True,116.92,2,Oportunidade - PIS/COFINS Monofásico
+NF-001203,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,2532.0,True,21.52,1,Oportunidade - PIS/COFINS Monofásico
+NF-001204,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,5388.0,True,45.8,1,Oportunidade - PIS/COFINS Monofásico
+NF-001205,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,2652.0,True,22.54,1,Oportunidade - PIS/COFINS Monofásico
+NF-001206,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,12880.0,True,540.96,2,Oportunidade - PIS/COFINS Monofásico
+NF-001207,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5102,12572.0,True,106.86,1,Oportunidade - PIS/COFINS Monofásico
+NF-001208,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,57270.0,True,486.8,1,Oportunidade - PIS/COFINS Monofásico
+NF-001209,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,19665.0,True,167.15,1,Oportunidade - PIS/COFINS Monofásico
+NF-001210,EMP-0012,Farmácia e Cosméticos,Norte,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,588.0,True,5.0,1,Oportunidade - PIS/COFINS Monofásico
+NF-001301,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1008.0,False,0.0,0,Sem Inconsistência
+NF-001302,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,466.0,False,0.0,0,Sem Inconsistência
+NF-001303,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,2800.0,False,0.0,0,Sem Inconsistência
+NF-001304,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,86.0,False,0.0,0,Sem Inconsistência
+NF-001305,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,834.0,False,0.0,0,Sem Inconsistência
+NF-001306,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,450.0,False,0.0,0,Sem Inconsistência
+NF-001307,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,463.5,False,0.0,0,Sem Inconsistência
+NF-001308,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,216.0,False,0.0,0,Sem Inconsistência
+NF-001309,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,3592.0,False,0.0,0,Sem Inconsistência
+NF-001310,EMP-0013,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,472.0,False,0.0,0,Sem Inconsistência
+NF-001401,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,6948.0,False,0.0,0,Sem Inconsistência
+NF-001402,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,7290.0,False,0.0,0,Sem Inconsistência
+NF-001403,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,1944.0,False,0.0,0,Sem Inconsistência
+NF-001404,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,720.0,False,0.0,0,Sem Inconsistência
+NF-001405,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,1044.0,False,0.0,0,Sem Inconsistência
+NF-001406,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,7488.0,False,0.0,0,Sem Inconsistência
+NF-001407,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,937.5,False,0.0,0,Sem Inconsistência
+NF-001408,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,497.5,False,0.0,0,Sem Inconsistência
+NF-001409,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,4590.0,False,0.0,0,Sem Inconsistência
+NF-001410,EMP-0014,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,4842.0,False,0.0,0,Sem Inconsistência
+NF-001501,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5405,81600.0,True,3427.2,2,Oportunidade - PIS/COFINS Monofásico
+NF-001502,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5405,3655.0,True,153.51,2,Oportunidade - PIS/COFINS Monofásico
+NF-001503,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,39525.0,True,335.96,1,Oportunidade - PIS/COFINS Monofásico
+NF-001504,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5405,101280.0,True,4253.76,2,Oportunidade - PIS/COFINS Monofásico
+NF-001505,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,17214.0,True,722.99,2,Oportunidade - PIS/COFINS Monofásico
+NF-001506,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5405,9775.0,True,410.54999999999995,2,Oportunidade - PIS/COFINS Monofásico
+NF-001507,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,17138.0,True,719.79,2,Oportunidade - PIS/COFINS Monofásico
+NF-001508,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5405,23375.0,True,981.75,2,Oportunidade - PIS/COFINS Monofásico
+NF-001509,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5405,65040.0,True,2731.6800000000003,2,Oportunidade - PIS/COFINS Monofásico
+NF-001510,EMP-0015,Autopeças e Oficinas,Sul,Interna,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,5548.0,True,233.02,2,Oportunidade - PIS/COFINS Monofásico
+NF-001601,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,3294.0,False,0.0,0,Sem Inconsistência
+NF-001602,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,3726.0,False,0.0,0,Sem Inconsistência
+NF-001603,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1037.5,False,0.0,0,Sem Inconsistência
+NF-001604,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,1764.0,False,0.0,0,Sem Inconsistência
+NF-001605,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1015.0,False,0.0,0,Sem Inconsistência
+NF-001606,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1187.5,False,0.0,0,Sem Inconsistência
+NF-001607,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,287.5,False,0.0,0,Sem Inconsistência
+NF-001608,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,7344.0,False,0.0,0,Sem Inconsistência
+NF-001609,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,6624.0,False,0.0,0,Sem Inconsistência
+NF-001610,EMP-0016,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,8082.0,False,0.0,0,Sem Inconsistência
+NF-001701,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,15755.0,True,661.7099999999999,2,Oportunidade - PIS/COFINS Monofásico
+NF-001702,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,3408.0,True,28.97,1,Oportunidade - PIS/COFINS Monofásico
+NF-001703,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,40710.0,True,346.04,1,Oportunidade - PIS/COFINS Monofásico
+NF-001704,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,4536.0,True,190.52,2,Oportunidade - PIS/COFINS Monofásico
+NF-001705,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,1392.0,True,58.46,2,Oportunidade - PIS/COFINS Monofásico
+NF-001706,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,12488.0,True,524.5,2,Oportunidade - PIS/COFINS Monofásico
+NF-001707,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,2256.0,True,94.75999999999999,2,Oportunidade - PIS/COFINS Monofásico
+NF-001708,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,300.0,True,2.55,1,Oportunidade - PIS/COFINS Monofásico
+NF-001709,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,57270.0,True,2405.35,2,Oportunidade - PIS/COFINS Monofásico
+NF-001710,EMP-0017,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5102,12180.0,True,103.53,1,Oportunidade - PIS/COFINS Monofásico
+NF-001801,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,1422.0,True,59.730000000000004,2,Oportunidade - PIS/COFINS Monofásico
+NF-001802,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,2038.5,True,85.62,2,Oportunidade - PIS/COFINS Monofásico
+NF-001803,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,654.0,True,5.56,1,Oportunidade - PIS/COFINS Monofásico
+NF-001804,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,220.5,True,9.26,2,Oportunidade - PIS/COFINS Monofásico
+NF-001805,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,192.0,True,1.63,1,Oportunidade - PIS/COFINS Monofásico
+NF-001806,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,2824.0,True,24.0,1,Oportunidade - PIS/COFINS Monofásico
+NF-001807,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,189.0,True,7.94,2,Oportunidade - PIS/COFINS Monofásico
+NF-001808,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,1404.0,True,58.96,2,Oportunidade - PIS/COFINS Monofásico
+NF-001809,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,1377.0,True,11.7,1,Oportunidade - PIS/COFINS Monofásico
+NF-001810,EMP-0018,Bebidas Frias,Norte,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,952.0,True,8.09,1,Oportunidade - PIS/COFINS Monofásico
+NF-001901,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5102,3500.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-001902,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,3636.0,False,0.0,0,Sem Inconsistência
+NF-001903,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,5244.0,False,0.0,0,Sem Inconsistência
+NF-001904,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5405,56005.0,False,0.0,0,Sem Inconsistência
+NF-001905,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,42895.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-001906,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,41400.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-001907,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5102,11032.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-001908,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,20010.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-001909,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,7392.0,False,0.0,0,Sem Inconsistência
+NF-001910,EMP-0019,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5102,3668.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002001,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,CERVEJA PILSEN 350ML,22030000,5405,288.0,False,0.0,0,Sem Inconsistência
+NF-002002,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,CERVEJA PILSEN 350ML,22030000,5405,630.0,False,0.0,0,Sem Inconsistência
+NF-002003,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,REFRIGERANTE COLA 2L,22021000,5405,3904.0,False,0.0,0,Sem Inconsistência
+NF-002004,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,1206.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002005,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,472.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002006,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,2256.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002007,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,224.0,False,0.0,0,Sem Inconsistência
+NF-002008,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,994.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002009,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,CERVEJA PILSEN 350ML,22030000,5405,450.0,False,0.0,0,Sem Inconsistência
+NF-002010,EMP-0020,Bebidas Frias,Centro-Oeste,Interna,Lucro Real,REFRIGERANTE COLA 2L,22021000,5405,2744.0,False,0.0,0,Sem Inconsistência
+NF-002101,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,152.5,False,0.0,0,Sem Inconsistência
+NF-002102,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,205.0,False,0.0,0,Sem Inconsistência
+NF-002103,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1000.0,False,0.0,0,Sem Inconsistência
+NF-002104,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,1782.0,False,0.0,0,Sem Inconsistência
+NF-002105,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1225.0,False,0.0,0,Sem Inconsistência
+NF-002106,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4194.0,False,0.0,0,Sem Inconsistência
+NF-002107,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,345.0,False,0.0,0,Sem Inconsistência
+NF-002108,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,455.0,False,0.0,0,Sem Inconsistência
+NF-002109,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,6426.0,False,0.0,0,Sem Inconsistência
+NF-002110,EMP-0021,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,522.5,False,0.0,0,Sem Inconsistência
+NF-002201,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,924.0,True,38.8,2,Oportunidade - PIS/COFINS Monofásico
+NF-002202,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,1664.0,True,14.14,1,Oportunidade - PIS/COFINS Monofásico
+NF-002203,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,364.5,True,3.1,1,Oportunidade - PIS/COFINS Monofásico
+NF-002204,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,172.0,True,1.46,1,Oportunidade - PIS/COFINS Monofásico
+NF-002205,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,1984.0,True,16.86,1,Oportunidade - PIS/COFINS Monofásico
+NF-002206,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,1719.0,True,72.2,2,Oportunidade - PIS/COFINS Monofásico
+NF-002207,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,1579.5,True,66.34,2,Oportunidade - PIS/COFINS Monofásico
+NF-002208,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,3672.0,True,31.21,1,Oportunidade - PIS/COFINS Monofásico
+NF-002209,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,282.0,True,11.85,2,Oportunidade - PIS/COFINS Monofásico
+NF-002210,EMP-0022,Bebidas Frias,Norte,Terceirizada,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,550.0,True,4.68,1,Oportunidade - PIS/COFINS Monofásico
+NF-002301,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,3744.0,False,0.0,0,Sem Inconsistência
+NF-002302,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,687.5,False,0.0,0,Sem Inconsistência
+NF-002303,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1075.0,False,0.0,0,Sem Inconsistência
+NF-002304,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,70.0,False,0.0,0,Sem Inconsistência
+NF-002305,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,5454.0,False,0.0,0,Sem Inconsistência
+NF-002306,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,8514.0,False,0.0,0,Sem Inconsistência
+NF-002307,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1047.5,False,0.0,0,Sem Inconsistência
+NF-002308,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,632.5,False,0.0,0,Sem Inconsistência
+NF-002309,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,205.0,False,0.0,0,Sem Inconsistência
+NF-002310,EMP-0023,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,735.0,False,0.0,0,Sem Inconsistência
+NF-002401,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,106320.0,False,0.0,0,Sem Inconsistência
+NF-002402,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,27370.0,False,0.0,0,Sem Inconsistência
+NF-002403,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,18658.0,False,0.0,0,Sem Inconsistência
+NF-002404,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,40800.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002405,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,17442.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002406,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,11645.0,False,0.0,0,Sem Inconsistência
+NF-002407,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,71520.0,False,0.0,0,Sem Inconsistência
+NF-002408,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,22865.0,False,0.0,0,Sem Inconsistência
+NF-002409,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,6970.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002410,EMP-0024,Autopeças e Oficinas,Nordeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,31620.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002501,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,612.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002502,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,5364.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002503,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,12236.0,False,0.0,0,Sem Inconsistência
+NF-002504,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,33005.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002505,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,19550.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002506,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,25300.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002507,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,1980.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002508,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5102,2044.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002509,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,5992.0,False,0.0,0,Sem Inconsistência
+NF-002510,EMP-0025,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,5064.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-002601,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,6048.0,False,0.0,0,Sem Inconsistência
+NF-002602,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,11844.0,False,0.0,0,Sem Inconsistência
+NF-002603,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,3456.0,False,0.0,0,Sem Inconsistência
+NF-002604,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,35420.0,False,0.0,0,Sem Inconsistência
+NF-002605,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,56235.0,False,0.0,0,Sem Inconsistência
+NF-002606,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5102,4404.0,False,0.0,0,Sem Inconsistência
+NF-002607,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,4816.0,False,0.0,0,Sem Inconsistência
+NF-002608,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,4644.0,False,0.0,0,Sem Inconsistência
+NF-002609,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,3684.0,False,0.0,0,Sem Inconsistência
+NF-002610,EMP-0026,Farmácia e Cosméticos,Centro-Oeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,504.0,False,0.0,0,Sem Inconsistência
+NF-002701,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,2904.0,False,0.0,0,Sem Inconsistência
+NF-002702,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,360.0,False,0.0,0,Sem Inconsistência
+NF-002703,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,360.0,False,0.0,0,Sem Inconsistência
+NF-002704,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1808.0,False,0.0,0,Sem Inconsistência
+NF-002705,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,804.0,False,0.0,0,Sem Inconsistência
+NF-002706,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,3152.0,False,0.0,0,Sem Inconsistência
+NF-002707,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,3208.0,False,0.0,0,Sem Inconsistência
+NF-002708,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,1530.0,False,0.0,0,Sem Inconsistência
+NF-002709,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,392.0,False,0.0,0,Sem Inconsistência
+NF-002710,EMP-0027,Bebidas Frias,Centro-Oeste,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,1998.0,False,0.0,0,Sem Inconsistência
+NF-002801,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,700.0,False,0.0,0,Sem Inconsistência
+NF-002802,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,212.5,False,0.0,0,Sem Inconsistência
+NF-002803,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,232.5,False,0.0,0,Sem Inconsistência
+NF-002804,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,1710.0,False,0.0,0,Sem Inconsistência
+NF-002805,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,5364.0,False,0.0,0,Sem Inconsistência
+NF-002806,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,4644.0,False,0.0,0,Sem Inconsistência
+NF-002807,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,6588.0,False,0.0,0,Sem Inconsistência
+NF-002808,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,620.0,False,0.0,0,Sem Inconsistência
+NF-002809,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,6732.0,False,0.0,0,Sem Inconsistência
+NF-002810,EMP-0028,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,412.5,False,0.0,0,Sem Inconsistência
+NF-002901,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,5094.0,False,0.0,0,Sem Inconsistência
+NF-002902,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,2700.0,False,0.0,0,Sem Inconsistência
+NF-002903,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,1026.0,False,0.0,0,Sem Inconsistência
+NF-002904,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,147.5,False,0.0,0,Sem Inconsistência
+NF-002905,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,805.0,False,0.0,0,Sem Inconsistência
+NF-002906,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4374.0,False,0.0,0,Sem Inconsistência
+NF-002907,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,8082.0,False,0.0,0,Sem Inconsistência
+NF-002908,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,885.0,False,0.0,0,Sem Inconsistência
+NF-002909,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,6012.0,False,0.0,0,Sem Inconsistência
+NF-002910,EMP-0029,Comércio Comum / Papelaria,Centro-Oeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,5742.0,False,0.0,0,Sem Inconsistência
+NF-003001,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,3708.0,False,0.0,0,Sem Inconsistência
+NF-003002,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,7344.0,False,0.0,0,Sem Inconsistência
+NF-003003,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,8082.0,False,0.0,0,Sem Inconsistência
+NF-003004,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,475.0,False,0.0,0,Sem Inconsistência
+NF-003005,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,4878.0,False,0.0,0,Sem Inconsistência
+NF-003006,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1147.5,False,0.0,0,Sem Inconsistência
+NF-003007,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,5940.0,False,0.0,0,Sem Inconsistência
+NF-003008,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,6858.0,False,0.0,0,Sem Inconsistência
+NF-003009,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,972.5,False,0.0,0,Sem Inconsistência
+NF-003010,EMP-0030,Comércio Comum / Papelaria,Norte,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,32.5,False,0.0,0,Sem Inconsistência
+NF-003101,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,642.0,False,0.0,0,Sem Inconsistência
+NF-003102,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,2408.0,False,0.0,0,Sem Inconsistência
+NF-003103,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,640.0,False,0.0,0,Sem Inconsistência
+NF-003104,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,306.0,False,0.0,0,Sem Inconsistência
+NF-003105,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,980.0,False,0.0,0,Sem Inconsistência
+NF-003106,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,528.0,False,0.0,0,Sem Inconsistência
+NF-003107,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,94.5,False,0.0,0,Sem Inconsistência
+NF-003108,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,54.0,False,0.0,0,Sem Inconsistência
+NF-003109,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,544.5,False,0.0,0,Sem Inconsistência
+NF-003110,EMP-0031,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,250.0,False,0.0,0,Sem Inconsistência
+NF-003201,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,378.0,True,3.21,1,Oportunidade - PIS/COFINS Monofásico
+NF-003202,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,232.0,True,1.97,1,Oportunidade - PIS/COFINS Monofásico
+NF-003203,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,984.0,True,41.32,2,Oportunidade - PIS/COFINS Monofásico
+NF-003204,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,3672.0,True,154.22,2,Oportunidade - PIS/COFINS Monofásico
+NF-003205,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,402.0,True,3.42,1,Oportunidade - PIS/COFINS Monofásico
+NF-003206,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,1944.0,True,16.52,1,Oportunidade - PIS/COFINS Monofásico
+NF-003207,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,1728.0,True,14.69,1,Oportunidade - PIS/COFINS Monofásico
+NF-003208,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,148.5,True,1.26,1,Oportunidade - PIS/COFINS Monofásico
+NF-003209,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,828.0,True,7.04,1,Oportunidade - PIS/COFINS Monofásico
+NF-003210,EMP-0032,Bebidas Frias,Nordeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,909.0,True,7.73,1,Oportunidade - PIS/COFINS Monofásico
+NF-003301,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,10030.0,True,85.26,1,Oportunidade - PIS/COFINS Monofásico
+NF-003302,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,47760.0,True,405.96,1,Oportunidade - PIS/COFINS Monofásico
+NF-003303,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,11760.0,True,99.96,1,Oportunidade - PIS/COFINS Monofásico
+NF-003304,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5405,42415.0,True,1781.43,2,Oportunidade - PIS/COFINS Monofásico
+NF-003305,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,16112.0,True,136.95,1,Oportunidade - PIS/COFINS Monofásico
+NF-003306,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,14896.0,True,625.64,2,Oportunidade - PIS/COFINS Monofásico
+NF-003307,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,17280.0,True,146.88,1,Oportunidade - PIS/COFINS Monofásico
+NF-003308,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,38335.0,True,325.85,1,Oportunidade - PIS/COFINS Monofásico
+NF-003309,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,3655.0,True,31.07,1,Oportunidade - PIS/COFINS Monofásico
+NF-003310,EMP-0033,Autopeças e Oficinas,Norte,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,6688.0,True,56.85,1,Oportunidade - PIS/COFINS Monofásico
+NF-003401,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,28865.0,False,0.0,0,Sem Inconsistência
+NF-003402,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,12124.0,False,0.0,0,Sem Inconsistência
+NF-003403,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,22655.0,False,0.0,0,Sem Inconsistência
+NF-003404,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,7644.0,False,0.0,0,Sem Inconsistência
+NF-003405,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,17595.0,False,0.0,0,Sem Inconsistência
+NF-003406,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,56005.0,False,0.0,0,Sem Inconsistência
+NF-003407,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,1284.0,False,0.0,0,Sem Inconsistência
+NF-003408,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,38410.0,False,0.0,0,Sem Inconsistência
+NF-003409,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,804.0,False,0.0,0,Sem Inconsistência
+NF-003410,EMP-0034,Farmácia e Cosméticos,Centro-Oeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,420.0,False,0.0,0,Sem Inconsistência
+NF-003501,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,8626.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003502,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,1786.0,False,0.0,0,Sem Inconsistência
+NF-003503,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,3078.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003504,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,33660.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003505,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,14110.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003506,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,11096.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003507,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,118320.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003508,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,25440.0,False,0.0,0,Sem Inconsistência
+NF-003509,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,15618.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003510,EMP-0035,Autopeças e Oficinas,Norte,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,38400.0,False,0.0,0,Sem Inconsistência
+NF-003601,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,585.0,False,0.0,0,Sem Inconsistência
+NF-003602,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,877.5,False,0.0,0,Sem Inconsistência
+NF-003603,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,577.5,False,0.0,0,Sem Inconsistência
+NF-003604,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,427.5,False,0.0,0,Sem Inconsistência
+NF-003605,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,1548.0,False,0.0,0,Sem Inconsistência
+NF-003606,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,2286.0,False,0.0,0,Sem Inconsistência
+NF-003607,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,900.0,False,0.0,0,Sem Inconsistência
+NF-003608,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,980.0,False,0.0,0,Sem Inconsistência
+NF-003609,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,250.0,False,0.0,0,Sem Inconsistência
+NF-003610,EMP-0036,Comércio Comum / Papelaria,Sudeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,357.5,False,0.0,0,Sem Inconsistência
+NF-003701,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,1750.5,True,14.88,1,Oportunidade - PIS/COFINS Monofásico
+NF-003702,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,670.0,True,5.7,1,Oportunidade - PIS/COFINS Monofásico
+NF-003703,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,2256.0,True,94.75999999999999,2,Oportunidade - PIS/COFINS Monofásico
+NF-003704,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,2119.5,True,89.02,2,Oportunidade - PIS/COFINS Monofásico
+NF-003705,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,1400.0,True,11.9,1,Oportunidade - PIS/COFINS Monofásico
+NF-003706,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,2984.0,True,25.36,1,Oportunidade - PIS/COFINS Monofásico
+NF-003707,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,762.0,True,32.010000000000005,2,Oportunidade - PIS/COFINS Monofásico
+NF-003708,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,1656.0,True,69.56,2,Oportunidade - PIS/COFINS Monofásico
+NF-003709,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,992.0,True,41.66,2,Oportunidade - PIS/COFINS Monofásico
+NF-003710,EMP-0037,Bebidas Frias,Sudeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,182.0,True,7.6499999999999995,2,Oportunidade - PIS/COFINS Monofásico
+NF-003801,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5102,5852.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003802,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5405,41630.0,False,0.0,0,Sem Inconsistência
+NF-003803,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,1224.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003804,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,3324.0,False,0.0,0,Sem Inconsistência
+NF-003805,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,1120.0,False,0.0,0,Sem Inconsistência
+NF-003806,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,2520.0,False,0.0,0,Sem Inconsistência
+NF-003807,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,20125.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003808,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,1116.0,False,0.0,0,Sem Inconsistência
+NF-003809,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,16215.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-003810,EMP-0038,Farmácia e Cosméticos,Sul,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,2244.0,False,0.0,0,Sem Inconsistência
+NF-003901,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,8982.0,False,0.0,0,Sem Inconsistência
+NF-003902,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,120.0,False,0.0,0,Sem Inconsistência
+NF-003903,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,217.5,False,0.0,0,Sem Inconsistência
+NF-003904,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,5814.0,False,0.0,0,Sem Inconsistência
+NF-003905,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,5850.0,False,0.0,0,Sem Inconsistência
+NF-003906,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,647.5,False,0.0,0,Sem Inconsistência
+NF-003907,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,92.5,False,0.0,0,Sem Inconsistência
+NF-003908,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,980.0,False,0.0,0,Sem Inconsistência
+NF-003909,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,5922.0,False,0.0,0,Sem Inconsistência
+NF-003910,EMP-0039,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,2646.0,False,0.0,0,Sem Inconsistência
+NF-004001,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,374.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004002,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,370.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004003,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,REFRIGERANTE COLA 2L,22021000,5405,2936.0,False,0.0,0,Sem Inconsistência
+NF-004004,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,2016.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004005,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,146.0,False,0.0,0,Sem Inconsistência
+NF-004006,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,1032.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004007,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,261.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004008,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,3624.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004009,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,206.0,False,0.0,0,Sem Inconsistência
+NF-004010,EMP-0040,Bebidas Frias,Norte,Interna,Lucro Real,CERVEJA PILSEN 350ML,22030000,5405,1773.0,False,0.0,0,Sem Inconsistência
+NF-004101,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4230.0,False,0.0,0,Sem Inconsistência
+NF-004102,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,830.0,False,0.0,0,Sem Inconsistência
+NF-004103,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,647.5,False,0.0,0,Sem Inconsistência
+NF-004104,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,360.0,False,0.0,0,Sem Inconsistência
+NF-004105,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4482.0,False,0.0,0,Sem Inconsistência
+NF-004106,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,2250.0,False,0.0,0,Sem Inconsistência
+NF-004107,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1247.5,False,0.0,0,Sem Inconsistência
+NF-004108,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,777.5,False,0.0,0,Sem Inconsistência
+NF-004109,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,6642.0,False,0.0,0,Sem Inconsistência
+NF-004110,EMP-0041,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,6444.0,False,0.0,0,Sem Inconsistência
+NF-004201,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,936.0,True,7.96,1,Oportunidade - PIS/COFINS Monofásico
+NF-004202,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,1773.0,True,15.07,1,Oportunidade - PIS/COFINS Monofásico
+NF-004203,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,3816.0,True,160.28,2,Oportunidade - PIS/COFINS Monofásico
+NF-004204,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,3256.0,True,136.76,2,Oportunidade - PIS/COFINS Monofásico
+NF-004205,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,144.0,True,1.22,1,Oportunidade - PIS/COFINS Monofásico
+NF-004206,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,1664.0,True,69.88,2,Oportunidade - PIS/COFINS Monofásico
+NF-004207,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,922.0,True,7.84,1,Oportunidade - PIS/COFINS Monofásico
+NF-004208,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,744.0,True,31.240000000000002,2,Oportunidade - PIS/COFINS Monofásico
+NF-004209,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,44.0,True,1.8399999999999999,2,Oportunidade - PIS/COFINS Monofásico
+NF-004210,EMP-0042,Bebidas Frias,Sul,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,405.0,True,17.01,2,Oportunidade - PIS/COFINS Monofásico
+NF-004301,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,6786.0,False,0.0,0,Sem Inconsistência
+NF-004302,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,610.0,False,0.0,0,Sem Inconsistência
+NF-004303,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,312.5,False,0.0,0,Sem Inconsistência
+NF-004304,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,232.5,False,0.0,0,Sem Inconsistência
+NF-004305,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,787.5,False,0.0,0,Sem Inconsistência
+NF-004306,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,5040.0,False,0.0,0,Sem Inconsistência
+NF-004307,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,5328.0,False,0.0,0,Sem Inconsistência
+NF-004308,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,378.0,False,0.0,0,Sem Inconsistência
+NF-004309,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,585.0,False,0.0,0,Sem Inconsistência
+NF-004310,EMP-0043,Comércio Comum / Papelaria,Nordeste,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,990.0,False,0.0,0,Sem Inconsistência
+NF-004401,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,6894.0,False,0.0,0,Sem Inconsistência
+NF-004402,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,8370.0,False,0.0,0,Sem Inconsistência
+NF-004403,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,287.5,False,0.0,0,Sem Inconsistência
+NF-004404,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,930.0,False,0.0,0,Sem Inconsistência
+NF-004405,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1095.0,False,0.0,0,Sem Inconsistência
+NF-004406,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,67.5,False,0.0,0,Sem Inconsistência
+NF-004407,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,1728.0,False,0.0,0,Sem Inconsistência
+NF-004408,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,6732.0,False,0.0,0,Sem Inconsistência
+NF-004409,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,342.5,False,0.0,0,Sem Inconsistência
+NF-004410,EMP-0044,Comércio Comum / Papelaria,Sudeste,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,280.0,False,0.0,0,Sem Inconsistência
+NF-004501,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5405,607.5,False,0.0,0,Sem Inconsistência
+NF-004502,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,112.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004503,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,2038.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004504,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,690.0,False,0.0,0,Sem Inconsistência
+NF-004505,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,112.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004506,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,738.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004507,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,314.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-004508,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5405,1768.5,False,0.0,0,Sem Inconsistência
+NF-004509,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5405,1712.0,False,0.0,0,Sem Inconsistência
+NF-004510,EMP-0045,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5405,1399.5,False,0.0,0,Sem Inconsistência
+NF-004601,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,34040.0,False,0.0,0,Sem Inconsistência
+NF-004602,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,11960.0,False,0.0,0,Sem Inconsistência
+NF-004603,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,2044.0,False,0.0,0,Sem Inconsistência
+NF-004604,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,27715.0,False,0.0,0,Sem Inconsistência
+NF-004605,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,10696.0,False,0.0,0,Sem Inconsistência
+NF-004606,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,3324.0,False,0.0,0,Sem Inconsistência
+NF-004607,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,3852.0,False,0.0,0,Sem Inconsistência
+NF-004608,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,1368.0,False,0.0,0,Sem Inconsistência
+NF-004609,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,7935.0,False,0.0,0,Sem Inconsistência
+NF-004610,EMP-0046,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,5148.0,False,0.0,0,Sem Inconsistência
+NF-004701,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,13225.0,True,112.41,1,Oportunidade - PIS/COFINS Monofásico
+NF-004702,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,10580.0,True,89.93,1,Oportunidade - PIS/COFINS Monofásico
+NF-004703,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,2700.0,True,113.4,2,Oportunidade - PIS/COFINS Monofásico
+NF-004704,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,32660.0,True,277.61,1,Oportunidade - PIS/COFINS Monofásico
+NF-004705,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,3444.0,True,144.64000000000001,2,Oportunidade - PIS/COFINS Monofásico
+NF-004706,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,12796.0,True,537.44,2,Oportunidade - PIS/COFINS Monofásico
+NF-004707,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5102,9212.0,True,78.3,1,Oportunidade - PIS/COFINS Monofásico
+NF-004708,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5102,12740.0,True,108.29,1,Oportunidade - PIS/COFINS Monofásico
+NF-004709,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5102,2884.0,True,24.51,1,Oportunidade - PIS/COFINS Monofásico
+NF-004710,EMP-0047,Farmácia e Cosméticos,Sul,Terceirizada,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,1800.0,True,75.6,2,Oportunidade - PIS/COFINS Monofásico
+NF-004801,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,5004.0,False,0.0,0,Sem Inconsistência
+NF-004802,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,985.0,False,0.0,0,Sem Inconsistência
+NF-004803,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,382.5,False,0.0,0,Sem Inconsistência
+NF-004804,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,5346.0,False,0.0,0,Sem Inconsistência
+NF-004805,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,8928.0,False,0.0,0,Sem Inconsistência
+NF-004806,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,8766.0,False,0.0,0,Sem Inconsistência
+NF-004807,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,547.5,False,0.0,0,Sem Inconsistência
+NF-004808,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,760.0,False,0.0,0,Sem Inconsistência
+NF-004809,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1152.5,False,0.0,0,Sem Inconsistência
+NF-004810,EMP-0048,Comércio Comum / Papelaria,Centro-Oeste,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,77.5,False,0.0,0,Sem Inconsistência
+NF-004901,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,61440.0,False,0.0,0,Sem Inconsistência
+NF-004902,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,98880.0,False,0.0,0,Sem Inconsistência
+NF-004903,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,67440.0,False,0.0,0,Sem Inconsistência
+NF-004904,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,11970.0,False,0.0,0,Sem Inconsistência
+NF-004905,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,16644.0,False,0.0,0,Sem Inconsistência
+NF-004906,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5102,39100.0,False,0.0,0,Sem Inconsistência
+NF-004907,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5405,12325.0,False,0.0,0,Sem Inconsistência
+NF-004908,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,6480.0,False,0.0,0,Sem Inconsistência
+NF-004909,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5102,27285.0,False,0.0,0,Sem Inconsistência
+NF-004910,EMP-0049,Autopeças e Oficinas,Sul,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,38160.0,False,0.0,0,Sem Inconsistência
+NF-005001,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5102,8204.0,True,69.73,1,Oportunidade - PIS/COFINS Monofásico
+NF-005002,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,44505.0,True,1869.21,2,Oportunidade - PIS/COFINS Monofásico
+NF-005003,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,4104.0,True,172.35999999999999,2,Oportunidade - PIS/COFINS Monofásico
+NF-005004,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,8764.0,True,368.08,2,Oportunidade - PIS/COFINS Monofásico
+NF-005005,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,3304.0,True,138.76,2,Oportunidade - PIS/COFINS Monofásico
+NF-005006,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,10120.0,True,425.03999999999996,2,Oportunidade - PIS/COFINS Monofásico
+NF-005007,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,4416.0,True,185.48,2,Oportunidade - PIS/COFINS Monofásico
+NF-005008,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,1008.0,True,42.34,2,Oportunidade - PIS/COFINS Monofásico
+NF-005009,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,2376.0,True,99.8,2,Oportunidade - PIS/COFINS Monofásico
+NF-005010,EMP-0050,Farmácia e Cosméticos,Sul,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5102,7812.0,True,66.4,1,Oportunidade - PIS/COFINS Monofásico
+NF-005101,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,18012.0,False,0.0,0,Sem Inconsistência
+NF-005102,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,2698.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005103,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,59760.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005104,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,2890.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005105,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,7068.0,False,0.0,0,Sem Inconsistência
+NF-005106,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,1445.0,False,0.0,0,Sem Inconsistência
+NF-005107,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,23885.0,False,0.0,0,Sem Inconsistência
+NF-005108,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,22695.0,False,0.0,0,Sem Inconsistência
+NF-005109,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,8670.0,False,0.0,0,Sem Inconsistência
+NF-005110,EMP-0051,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,27795.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005201,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4806.0,False,0.0,0,Sem Inconsistência
+NF-005202,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,232.5,False,0.0,0,Sem Inconsistência
+NF-005203,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,410.0,False,0.0,0,Sem Inconsistência
+NF-005204,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1030.0,False,0.0,0,Sem Inconsistência
+NF-005205,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,630.0,False,0.0,0,Sem Inconsistência
+NF-005206,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,7344.0,False,0.0,0,Sem Inconsistência
+NF-005207,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,590.0,False,0.0,0,Sem Inconsistência
+NF-005208,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1030.0,False,0.0,0,Sem Inconsistência
+NF-005209,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,2664.0,False,0.0,0,Sem Inconsistência
+NF-005210,EMP-0052,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,7200.0,False,0.0,0,Sem Inconsistência
+NF-005301,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,9180.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005302,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,7200.0,False,0.0,0,Sem Inconsistência
+NF-005303,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,80400.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005304,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,14402.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005305,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,15466.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005306,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,1530.0,False,0.0,0,Sem Inconsistência
+NF-005307,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,7714.0,False,0.0,0,Sem Inconsistência
+NF-005308,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,113040.0,False,0.0,0,Sem Inconsistência
+NF-005309,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,111600.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005310,EMP-0053,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,22695.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005401,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,55660.0,False,0.0,0,Sem Inconsistência
+NF-005402,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,13455.0,False,0.0,0,Sem Inconsistência
+NF-005403,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,3000.0,False,0.0,0,Sem Inconsistência
+NF-005404,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,10810.0,False,0.0,0,Sem Inconsistência
+NF-005405,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,8204.0,False,0.0,0,Sem Inconsistência
+NF-005406,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,10052.0,False,0.0,0,Sem Inconsistência
+NF-005407,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,2996.0,False,0.0,0,Sem Inconsistência
+NF-005408,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,33120.0,False,0.0,0,Sem Inconsistência
+NF-005409,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,34500.0,False,0.0,0,Sem Inconsistência
+NF-005410,EMP-0054,Farmácia e Cosméticos,Sul,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,996.0,False,0.0,0,Sem Inconsistência
+NF-005501,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,655.0,False,0.0,0,Sem Inconsistência
+NF-005502,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,8784.0,False,0.0,0,Sem Inconsistência
+NF-005503,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,247.5,False,0.0,0,Sem Inconsistência
+NF-005504,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1177.5,False,0.0,0,Sem Inconsistência
+NF-005505,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,1296.0,False,0.0,0,Sem Inconsistência
+NF-005506,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,27.5,False,0.0,0,Sem Inconsistência
+NF-005507,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,2142.0,False,0.0,0,Sem Inconsistência
+NF-005508,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,875.0,False,0.0,0,Sem Inconsistência
+NF-005509,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,957.5,False,0.0,0,Sem Inconsistência
+NF-005510,EMP-0055,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,8388.0,False,0.0,0,Sem Inconsistência
+NF-005601,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,3808.0,True,159.94,2,Oportunidade - PIS/COFINS Monofásico
+NF-005602,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,28060.0,True,1178.52,2,Oportunidade - PIS/COFINS Monofásico
+NF-005603,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,42665.0,True,362.65,1,Oportunidade - PIS/COFINS Monofásico
+NF-005604,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,5096.0,True,214.04,2,Oportunidade - PIS/COFINS Monofásico
+NF-005605,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,32430.0,True,275.66,1,Oportunidade - PIS/COFINS Monofásico
+NF-005606,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5102,26220.0,True,222.87,1,Oportunidade - PIS/COFINS Monofásico
+NF-005607,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,1020.0,True,42.84,2,Oportunidade - PIS/COFINS Monofásico
+NF-005608,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,SHAMPOO ANTIQUEDA 300ML,33051000,5405,1876.0,True,78.8,2,Oportunidade - PIS/COFINS Monofásico
+NF-005609,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,52900.0,True,2221.8,2,Oportunidade - PIS/COFINS Monofásico
+NF-005610,EMP-0056,Farmácia e Cosméticos,Nordeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,2256.0,True,94.75999999999999,2,Oportunidade - PIS/COFINS Monofásico
+NF-005701,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,6840.0,False,0.0,0,Sem Inconsistência
+NF-005702,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4662.0,False,0.0,0,Sem Inconsistência
+NF-005703,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4410.0,False,0.0,0,Sem Inconsistência
+NF-005704,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,1116.0,False,0.0,0,Sem Inconsistência
+NF-005705,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,362.5,False,0.0,0,Sem Inconsistência
+NF-005706,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,5526.0,False,0.0,0,Sem Inconsistência
+NF-005707,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,7578.0,False,0.0,0,Sem Inconsistência
+NF-005708,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4482.0,False,0.0,0,Sem Inconsistência
+NF-005709,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,7542.0,False,0.0,0,Sem Inconsistência
+NF-005710,EMP-0057,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,9000.0,False,0.0,0,Sem Inconsistência
+NF-005801,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5405,12765.0,False,0.0,0,Sem Inconsistência
+NF-005802,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5405,35075.0,False,0.0,0,Sem Inconsistência
+NF-005803,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,828.0,False,0.0,0,Sem Inconsistência
+NF-005804,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5405,9660.0,False,0.0,0,Sem Inconsistência
+NF-005805,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,2844.0,False,0.0,0,Sem Inconsistência
+NF-005806,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,9430.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-005807,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,7056.0,False,0.0,0,Sem Inconsistência
+NF-005808,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,840.0,False,0.0,0,Sem Inconsistência
+NF-005809,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5405,42780.0,False,0.0,0,Sem Inconsistência
+NF-005810,EMP-0058,Farmácia e Cosméticos,Sudeste,Interna,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,11956.0,False,0.0,0,Sem Inconsistência
+NF-005901,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,888.0,False,0.0,0,Sem Inconsistência
+NF-005902,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,1064.0,False,0.0,0,Sem Inconsistência
+NF-005903,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1016.0,False,0.0,0,Sem Inconsistência
+NF-005904,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,1992.0,False,0.0,0,Sem Inconsistência
+NF-005905,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,1696.0,False,0.0,0,Sem Inconsistência
+NF-005906,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,736.0,False,0.0,0,Sem Inconsistência
+NF-005907,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,758.0,False,0.0,0,Sem Inconsistência
+NF-005908,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,2182.5,False,0.0,0,Sem Inconsistência
+NF-005909,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,2034.0,False,0.0,0,Sem Inconsistência
+NF-005910,EMP-0059,Bebidas Frias,Sudeste,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,729.0,False,0.0,0,Sem Inconsistência
+NF-006001,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5405,113760.0,True,4777.92,2,Oportunidade - PIS/COFINS Monofásico
+NF-006002,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,7905.0,True,67.19,1,Oportunidade - PIS/COFINS Monofásico
+NF-006003,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5405,94320.0,True,3961.4399999999996,2,Oportunidade - PIS/COFINS Monofásico
+NF-006004,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5405,31195.0,True,1310.19,2,Oportunidade - PIS/COFINS Monofásico
+NF-006005,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5405,41310.0,True,1735.02,2,Oportunidade - PIS/COFINS Monofásico
+NF-006006,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,10146.0,True,426.13,2,Oportunidade - PIS/COFINS Monofásico
+NF-006007,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,15504.0,True,651.16,2,Oportunidade - PIS/COFINS Monofásico
+NF-006008,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,14668.0,True,124.68,1,Oportunidade - PIS/COFINS Monofásico
+NF-006009,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,102480.0,True,871.08,1,Oportunidade - PIS/COFINS Monofásico
+NF-006010,EMP-0060,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,31875.0,True,270.94,1,Oportunidade - PIS/COFINS Monofásico
+NF-006101,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,10115.0,False,0.0,0,Sem Inconsistência
+NF-006102,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,20400.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006103,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,14288.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006104,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,26350.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006105,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,22695.0,False,0.0,0,Sem Inconsistência
+NF-006106,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,72960.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006107,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,20485.0,False,0.0,0,Sem Inconsistência
+NF-006108,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,4598.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006109,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,34935.0,False,0.0,0,Sem Inconsistência
+NF-006110,EMP-0061,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,90000.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006201,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,6966.0,False,0.0,0,Sem Inconsistência
+NF-006202,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,4338.0,False,0.0,0,Sem Inconsistência
+NF-006203,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,1008.0,False,0.0,0,Sem Inconsistência
+NF-006204,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,6462.0,False,0.0,0,Sem Inconsistência
+NF-006205,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,6336.0,False,0.0,0,Sem Inconsistência
+NF-006206,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,3438.0,False,0.0,0,Sem Inconsistência
+NF-006207,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,525.0,False,0.0,0,Sem Inconsistência
+NF-006208,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,127.5,False,0.0,0,Sem Inconsistência
+NF-006209,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,905.0,False,0.0,0,Sem Inconsistência
+NF-006210,EMP-0062,Comércio Comum / Papelaria,Norte,Interna,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,2466.0,False,0.0,0,Sem Inconsistência
+NF-006301,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,67.5,False,0.0,0,Sem Inconsistência
+NF-006302,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,432.0,False,0.0,0,Sem Inconsistência
+NF-006303,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,1759.5,False,0.0,0,Sem Inconsistência
+NF-006304,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1600.0,False,0.0,0,Sem Inconsistência
+NF-006305,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,2528.0,False,0.0,0,Sem Inconsistência
+NF-006306,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,36.0,False,0.0,0,Sem Inconsistência
+NF-006307,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,1174.5,False,0.0,0,Sem Inconsistência
+NF-006308,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,706.5,False,0.0,0,Sem Inconsistência
+NF-006309,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,2038.5,False,0.0,0,Sem Inconsistência
+NF-006310,EMP-0063,Bebidas Frias,Sul,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1368.0,False,0.0,0,Sem Inconsistência
+NF-006401,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,115200.0,True,979.2,1,Oportunidade - PIS/COFINS Monofásico
+NF-006402,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,55200.0,True,469.2,1,Oportunidade - PIS/COFINS Monofásico
+NF-006403,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,12958.0,True,110.14,1,Oportunidade - PIS/COFINS Monofásico
+NF-006404,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5405,72960.0,True,3064.3199999999997,2,Oportunidade - PIS/COFINS Monofásico
+NF-006405,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,7182.0,True,301.65,2,Oportunidade - PIS/COFINS Monofásico
+NF-006406,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,15960.0,True,670.3199999999999,2,Oportunidade - PIS/COFINS Monofásico
+NF-006407,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,21165.0,True,179.9,1,Oportunidade - PIS/COFINS Monofásico
+NF-006408,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,30345.0,True,257.93,1,Oportunidade - PIS/COFINS Monofásico
+NF-006409,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,35760.0,True,303.96,1,Oportunidade - PIS/COFINS Monofásico
+NF-006410,EMP-0064,Autopeças e Oficinas,Sudeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5405,6120.0,True,257.04,2,Oportunidade - PIS/COFINS Monofásico
+NF-006501,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,348.0,False,0.0,0,Sem Inconsistência
+NF-006502,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,34500.0,False,0.0,0,Sem Inconsistência
+NF-006503,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,3828.0,False,0.0,0,Sem Inconsistência
+NF-006504,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,3335.0,False,0.0,0,Sem Inconsistência
+NF-006505,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,9632.0,False,0.0,0,Sem Inconsistência
+NF-006506,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5102,3768.0,False,0.0,0,Sem Inconsistência
+NF-006507,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,13720.0,False,0.0,0,Sem Inconsistência
+NF-006508,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,9380.0,False,0.0,0,Sem Inconsistência
+NF-006509,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,2185.0,False,0.0,0,Sem Inconsistência
+NF-006510,EMP-0065,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,10052.0,False,0.0,0,Sem Inconsistência
+NF-006601,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,2544.0,True,21.62,1,Oportunidade - PIS/COFINS Monofásico
+NF-006602,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,675.0,True,28.35,2,Oportunidade - PIS/COFINS Monofásico
+NF-006603,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,250.0,True,10.5,2,Oportunidade - PIS/COFINS Monofásico
+NF-006604,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,2008.0,True,17.07,1,Oportunidade - PIS/COFINS Monofásico
+NF-006605,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,1312.0,True,11.15,1,Oportunidade - PIS/COFINS Monofásico
+NF-006606,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,512.0,True,21.5,2,Oportunidade - PIS/COFINS Monofásico
+NF-006607,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5405,2000.0,True,84.0,2,Oportunidade - PIS/COFINS Monofásico
+NF-006608,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,279.0,True,11.719999999999999,2,Oportunidade - PIS/COFINS Monofásico
+NF-006609,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,936.0,True,7.96,1,Oportunidade - PIS/COFINS Monofásico
+NF-006610,EMP-0066,Bebidas Frias,Nordeste,Interna,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5405,176.0,True,7.4,2,Oportunidade - PIS/COFINS Monofásico
+NF-006701,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5102,8160.0,False,0.0,0,Sem Inconsistência
+NF-006702,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,48960.0,False,0.0,0,Sem Inconsistência
+NF-006703,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5405,39610.0,False,0.0,0,Sem Inconsistência
+NF-006704,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,18316.0,False,0.0,0,Sem Inconsistência
+NF-006705,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5102,9095.0,False,0.0,0,Sem Inconsistência
+NF-006706,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5102,78720.0,False,0.0,0,Sem Inconsistência
+NF-006707,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5405,15810.0,False,0.0,0,Sem Inconsistência
+NF-006708,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5102,72480.0,False,0.0,0,Sem Inconsistência
+NF-006709,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,31200.0,False,0.0,0,Sem Inconsistência
+NF-006710,EMP-0067,Autopeças e Oficinas,Centro-Oeste,Interna,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,83760.0,False,0.0,0,Sem Inconsistência
+NF-006801,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5405,1620.0,False,0.0,0,Sem Inconsistência
+NF-006802,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,298.0,False,0.0,0,Sem Inconsistência
+NF-006803,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,1840.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006804,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5405,2052.0,False,0.0,0,Sem Inconsistência
+NF-006805,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,2616.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006806,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5405,88.0,False,0.0,0,Sem Inconsistência
+NF-006807,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,1129.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006808,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,1543.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006809,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,3784.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006810,EMP-0068,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,3288.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-006901,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,1440.0,False,0.0,0,Sem Inconsistência
+NF-006902,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,597.5,False,0.0,0,Sem Inconsistência
+NF-006903,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,8604.0,False,0.0,0,Sem Inconsistência
+NF-006904,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,7452.0,False,0.0,0,Sem Inconsistência
+NF-006905,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,4284.0,False,0.0,0,Sem Inconsistência
+NF-006906,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,220.0,False,0.0,0,Sem Inconsistência
+NF-006907,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,615.0,False,0.0,0,Sem Inconsistência
+NF-006908,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,450.0,False,0.0,0,Sem Inconsistência
+NF-006909,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CADERNO ESPIRAL 100 FLS,48201000,5102,5184.0,False,0.0,0,Sem Inconsistência
+NF-006910,EMP-0069,Comércio Comum / Papelaria,Nordeste,Terceirizada,Simples Nacional,CANETA ESFEROGRÁFICA AZUL,96081000,5102,807.5,False,0.0,0,Sem Inconsistência
+NF-007001,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1376.0,False,0.0,0,Sem Inconsistência
+NF-007002,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,886.5,False,0.0,0,Sem Inconsistência
+NF-007003,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,256.5,False,0.0,0,Sem Inconsistência
+NF-007004,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,998.0,False,0.0,0,Sem Inconsistência
+NF-007005,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,304.0,False,0.0,0,Sem Inconsistência
+NF-007006,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,304.0,False,0.0,0,Sem Inconsistência
+NF-007007,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,822.0,False,0.0,0,Sem Inconsistência
+NF-007008,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1560.0,False,0.0,0,Sem Inconsistência
+NF-007009,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,751.5,False,0.0,0,Sem Inconsistência
+NF-007010,EMP-0070,Bebidas Frias,Norte,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,1021.5,False,0.0,0,Sem Inconsistência
+NF-007101,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,41860.0,True,1758.12,2,Oportunidade - PIS/COFINS Monofásico
+NF-007102,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,55430.0,True,2328.07,2,Oportunidade - PIS/COFINS Monofásico
+NF-007103,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,2004.0,True,17.03,1,Oportunidade - PIS/COFINS Monofásico
+NF-007104,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,1224.0,True,51.4,2,Oportunidade - PIS/COFINS Monofásico
+NF-007105,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,2300.0,True,96.6,2,Oportunidade - PIS/COFINS Monofásico
+NF-007106,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,17825.0,True,748.65,2,Oportunidade - PIS/COFINS Monofásico
+NF-007107,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,PERFUME COLONIA 100ML,33030010,5405,38870.0,True,1632.54,2,Oportunidade - PIS/COFINS Monofásico
+NF-007108,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5102,4812.0,True,40.9,1,Oportunidade - PIS/COFINS Monofásico
+NF-007109,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,2688.0,True,112.9,2,Oportunidade - PIS/COFINS Monofásico
+NF-007110,EMP-0071,Farmácia e Cosméticos,Sudeste,Interna,Simples Nacional,DIPIRONA SODICA 500MG,30049099,5405,936.0,True,39.32,2,Oportunidade - PIS/COFINS Monofásico
+NF-007201,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,4152.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007202,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,4704.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007203,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,2748.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007204,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,9968.0,False,0.0,0,Sem Inconsistência
+NF-007205,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,1968.0,False,0.0,0,Sem Inconsistência
+NF-007206,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,336.0,False,0.0,0,Sem Inconsistência
+NF-007207,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,8970.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007208,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5405,6555.0,False,0.0,0,Sem Inconsistência
+NF-007209,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,10836.0,False,0.0,0,Sem Inconsistência
+NF-007210,EMP-0072,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,952.0,False,0.0,0,Sem Inconsistência
+NF-007301,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,2736.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007302,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,858.0,False,0.0,0,Sem Inconsistência
+NF-007303,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,758.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007304,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5405,3784.0,False,0.0,0,Sem Inconsistência
+NF-007305,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,872.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007306,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,3776.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007307,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,3112.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007308,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,216.0,False,0.0,0,Sem Inconsistência
+NF-007309,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,354.0,False,0.0,0,Sem Inconsistência
+NF-007310,EMP-0073,Bebidas Frias,Norte,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,892.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007401,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,1992.0,False,0.0,0,Sem Inconsistência
+NF-007402,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,2100.0,False,0.0,0,Sem Inconsistência
+NF-007403,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,7360.0,False,0.0,0,Sem Inconsistência
+NF-007404,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,3948.0,False,0.0,0,Sem Inconsistência
+NF-007405,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,39675.0,False,0.0,0,Sem Inconsistência
+NF-007406,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,10024.0,False,0.0,0,Sem Inconsistência
+NF-007407,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,34155.0,False,0.0,0,Sem Inconsistência
+NF-007408,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,18515.0,False,0.0,0,Sem Inconsistência
+NF-007409,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,276.0,False,0.0,0,Sem Inconsistência
+NF-007410,EMP-0074,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,6440.0,False,0.0,0,Sem Inconsistência
+NF-007501,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,17176.0,False,0.0,0,Sem Inconsistência
+NF-007502,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,78240.0,False,0.0,0,Sem Inconsistência
+NF-007503,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,5776.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007504,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,13566.0,False,0.0,0,Sem Inconsistência
+NF-007505,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,10032.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007506,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,8246.0,False,0.0,0,Sem Inconsistência
+NF-007507,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,41140.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007508,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,8360.0,False,0.0,0,Sem Inconsistência
+NF-007509,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,2584.0,False,0.0,0,Sem Inconsistência
+NF-007510,EMP-0075,Autopeças e Oficinas,Sudeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,15998.0,False,0.0,0,Sem Inconsistência
+NF-007601,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,540.0,False,0.0,0,Sem Inconsistência
+NF-007602,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,396.0,False,0.0,0,Sem Inconsistência
+NF-007603,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,5616.0,False,0.0,0,Sem Inconsistência
+NF-007604,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,2484.0,False,0.0,0,Sem Inconsistência
+NF-007605,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1162.5,False,0.0,0,Sem Inconsistência
+NF-007606,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,5022.0,False,0.0,0,Sem Inconsistência
+NF-007607,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,7470.0,False,0.0,0,Sem Inconsistência
+NF-007608,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,7092.0,False,0.0,0,Sem Inconsistência
+NF-007609,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,990.0,False,0.0,0,Sem Inconsistência
+NF-007610,EMP-0076,Comércio Comum / Papelaria,Sul,Terceirizada,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,262.5,False,0.0,0,Sem Inconsistência
+NF-007701,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5102,6272.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007702,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,49910.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007703,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5405,13552.0,False,0.0,0,Sem Inconsistência
+NF-007704,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,2712.0,False,0.0,0,Sem Inconsistência
+NF-007705,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,1464.0,False,0.0,0,Sem Inconsistência
+NF-007706,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5102,11312.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007707,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,4715.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007708,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,4644.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007709,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,2040.0,False,0.0,0,Sem Inconsistência
+NF-007710,EMP-0077,Farmácia e Cosméticos,Sul,Interna,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,44160.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-007801,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,375.0,False,0.0,0,Sem Inconsistência
+NF-007802,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,697.5,False,0.0,0,Sem Inconsistência
+NF-007803,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,102.5,False,0.0,0,Sem Inconsistência
+NF-007804,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4158.0,False,0.0,0,Sem Inconsistência
+NF-007805,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1200.0,False,0.0,0,Sem Inconsistência
+NF-007806,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,684.0,False,0.0,0,Sem Inconsistência
+NF-007807,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,6156.0,False,0.0,0,Sem Inconsistência
+NF-007808,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,285.0,False,0.0,0,Sem Inconsistência
+NF-007809,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4392.0,False,0.0,0,Sem Inconsistência
+NF-007810,EMP-0078,Comércio Comum / Papelaria,Sul,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4176.0,False,0.0,0,Sem Inconsistência
+NF-007901,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,657.5,False,0.0,0,Sem Inconsistência
+NF-007902,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,8730.0,False,0.0,0,Sem Inconsistência
+NF-007903,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,2952.0,False,0.0,0,Sem Inconsistência
+NF-007904,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,930.0,False,0.0,0,Sem Inconsistência
+NF-007905,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,547.5,False,0.0,0,Sem Inconsistência
+NF-007906,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,385.0,False,0.0,0,Sem Inconsistência
+NF-007907,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,3132.0,False,0.0,0,Sem Inconsistência
+NF-007908,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,452.5,False,0.0,0,Sem Inconsistência
+NF-007909,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,280.0,False,0.0,0,Sem Inconsistência
+NF-007910,EMP-0079,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,325.0,False,0.0,0,Sem Inconsistência
+NF-008001,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,11536.0,False,0.0,0,Sem Inconsistência
+NF-008002,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,7756.0,False,0.0,0,Sem Inconsistência
+NF-008003,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,46690.0,False,0.0,0,Sem Inconsistência
+NF-008004,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,868.0,False,0.0,0,Sem Inconsistência
+NF-008005,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,7812.0,False,0.0,0,Sem Inconsistência
+NF-008006,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,504.0,False,0.0,0,Sem Inconsistência
+NF-008007,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,7840.0,False,0.0,0,Sem Inconsistência
+NF-008008,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,8764.0,False,0.0,0,Sem Inconsistência
+NF-008009,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,35650.0,False,0.0,0,Sem Inconsistência
+NF-008010,EMP-0080,Farmácia e Cosméticos,Sudeste,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,24725.0,False,0.0,0,Sem Inconsistência
+NF-008101,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,1300.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008102,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,2061.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008103,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,625.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008104,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,546.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008105,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,679.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008106,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,628.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008107,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,492.0,False,0.0,0,Sem Inconsistência
+NF-008108,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5405,2432.0,False,0.0,0,Sem Inconsistência
+NF-008109,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,974.0,False,0.0,0,Sem Inconsistência
+NF-008110,EMP-0081,Bebidas Frias,Nordeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,252.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008201,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,440.0,False,0.0,0,Sem Inconsistência
+NF-008202,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,1890.0,False,0.0,0,Sem Inconsistência
+NF-008203,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1042.5,False,0.0,0,Sem Inconsistência
+NF-008204,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,2070.0,False,0.0,0,Sem Inconsistência
+NF-008205,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,792.5,False,0.0,0,Sem Inconsistência
+NF-008206,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,520.0,False,0.0,0,Sem Inconsistência
+NF-008207,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,3312.0,False,0.0,0,Sem Inconsistência
+NF-008208,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1200.0,False,0.0,0,Sem Inconsistência
+NF-008209,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,2610.0,False,0.0,0,Sem Inconsistência
+NF-008210,EMP-0082,Comércio Comum / Papelaria,Sudeste,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,567.5,False,0.0,0,Sem Inconsistência
+NF-008301,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5102,32725.0,False,0.0,0,Sem Inconsistência
+NF-008302,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,9842.0,False,0.0,0,Sem Inconsistência
+NF-008303,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5102,3145.0,False,0.0,0,Sem Inconsistência
+NF-008304,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5102,115440.0,False,0.0,0,Sem Inconsistência
+NF-008305,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,12844.0,False,0.0,0,Sem Inconsistência
+NF-008306,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,PASTILHA DE FREIO BROS,87083090,5102,41650.0,False,0.0,0,Sem Inconsistência
+NF-008307,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5405,67440.0,False,0.0,0,Sem Inconsistência
+NF-008308,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,PNEU ARO 17 MOTORCYCLE,40114000,5102,70800.0,False,0.0,0,Sem Inconsistência
+NF-008309,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,5130.0,False,0.0,0,Sem Inconsistência
+NF-008310,EMP-0083,Autopeças e Oficinas,Norte,Terceirizada,Lucro Presumido,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,3686.0,False,0.0,0,Sem Inconsistência
+NF-008401,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,1512.0,False,0.0,0,Sem Inconsistência
+NF-008402,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,976.0,False,0.0,0,Sem Inconsistência
+NF-008403,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,310.5,False,0.0,0,Sem Inconsistência
+NF-008404,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,1260.0,False,0.0,0,Sem Inconsistência
+NF-008405,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,622.0,False,0.0,0,Sem Inconsistência
+NF-008406,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,936.0,False,0.0,0,Sem Inconsistência
+NF-008407,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,1976.0,False,0.0,0,Sem Inconsistência
+NF-008408,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,826.0,False,0.0,0,Sem Inconsistência
+NF-008409,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5102,540.0,False,0.0,0,Sem Inconsistência
+NF-008410,EMP-0084,Bebidas Frias,Sul,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,920.0,False,0.0,0,Sem Inconsistência
+NF-008501,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5102,3432.0,False,0.0,0,Sem Inconsistência
+NF-008502,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,56350.0,False,0.0,0,Sem Inconsistência
+NF-008503,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5102,348.0,False,0.0,0,Sem Inconsistência
+NF-008504,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,3708.0,False,0.0,0,Sem Inconsistência
+NF-008505,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,42090.0,False,0.0,0,Sem Inconsistência
+NF-008506,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,13076.0,False,0.0,0,Sem Inconsistência
+NF-008507,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5405,13384.0,False,0.0,0,Sem Inconsistência
+NF-008508,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,3836.0,False,0.0,0,Sem Inconsistência
+NF-008509,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,SHAMPOO ANTIQUEDA 300ML,33051000,5102,12404.0,False,0.0,0,Sem Inconsistência
+NF-008510,EMP-0085,Farmácia e Cosméticos,Sul,Terceirizada,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5102,3696.0,False,0.0,0,Sem Inconsistência
+NF-008601,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,972.0,False,0.0,0,Sem Inconsistência
+NF-008602,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5102,3900.0,False,0.0,0,Sem Inconsistência
+NF-008603,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,3852.0,False,0.0,0,Sem Inconsistência
+NF-008604,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5405,2388.0,False,0.0,0,Sem Inconsistência
+NF-008605,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,30705.0,False,0.0,0,Sem Inconsistência
+NF-008606,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,6900.0,False,0.0,0,Sem Inconsistência
+NF-008607,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,DIPIRONA SODICA 500MG,30049099,5102,3864.0,False,0.0,0,Sem Inconsistência
+NF-008608,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,23690.0,False,0.0,0,Sem Inconsistência
+NF-008609,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5405,21160.0,False,0.0,0,Sem Inconsistência
+NF-008610,EMP-0086,Farmácia e Cosméticos,Nordeste,Interna,Lucro Presumido,PERFUME COLONIA 100ML,33030010,5102,54970.0,False,0.0,0,Sem Inconsistência
+NF-008701,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,9956.0,False,0.0,0,Sem Inconsistência
+NF-008702,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,39120.0,False,0.0,0,Sem Inconsistência
+NF-008703,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,29760.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008704,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,16800.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008705,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,39840.0,False,0.0,0,Sem Inconsistência
+NF-008706,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,118320.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008707,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,9766.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008708,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,21335.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008709,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,850.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008710,EMP-0087,Autopeças e Oficinas,Sul,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,41520.0,False,0.0,0,Sem Inconsistência
+NF-008801,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,14640.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008802,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,11742.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008803,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,12730.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008804,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,17680.0,False,0.0,0,Sem Inconsistência
+NF-008805,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,2125.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008806,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,10982.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008807,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,8018.0,False,0.0,0,Sem Inconsistência
+NF-008808,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,28220.0,False,0.0,0,Sem Inconsistência
+NF-008809,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,5040.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008810,EMP-0088,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,28815.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-008901,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,402.5,False,0.0,0,Sem Inconsistência
+NF-008902,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,3168.0,False,0.0,0,Sem Inconsistência
+NF-008903,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,576.0,False,0.0,0,Sem Inconsistência
+NF-008904,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,802.5,False,0.0,0,Sem Inconsistência
+NF-008905,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,800.0,False,0.0,0,Sem Inconsistência
+NF-008906,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,8712.0,False,0.0,0,Sem Inconsistência
+NF-008907,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,2376.0,False,0.0,0,Sem Inconsistência
+NF-008908,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,792.0,False,0.0,0,Sem Inconsistência
+NF-008909,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,362.5,False,0.0,0,Sem Inconsistência
+NF-008910,EMP-0089,Comércio Comum / Papelaria,Norte,Terceirizada,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1132.5,False,0.0,0,Sem Inconsistência
+NF-009001,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,283.5,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009002,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,3808.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009003,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5102,1872.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009004,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,828.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009005,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,REFRIGERANTE COLA 2L,22021000,5405,368.0,False,0.0,0,Sem Inconsistência
+NF-009006,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,718.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009007,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5405,132.0,False,0.0,0,Sem Inconsistência
+NF-009008,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,340.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009009,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,CERVEJA PILSEN 350ML,22030000,5102,1476.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009010,EMP-0090,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Real,ÁGUA MINERAL 500ML,22011000,5102,286.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009101,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,408.0,True,3.47,1,Oportunidade - PIS/COFINS Monofásico
+NF-009102,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,1208.0,True,10.27,1,Oportunidade - PIS/COFINS Monofásico
+NF-009103,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,REFRIGERANTE COLA 2L,22021000,5102,2976.0,True,25.3,1,Oportunidade - PIS/COFINS Monofásico
+NF-009104,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,1048.5,True,44.03,2,Oportunidade - PIS/COFINS Monofásico
+NF-009105,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,967.5,True,8.22,1,Oportunidade - PIS/COFINS Monofásico
+NF-009106,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,144.0,True,1.22,1,Oportunidade - PIS/COFINS Monofásico
+NF-009107,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5102,1030.5,True,8.76,1,Oportunidade - PIS/COFINS Monofásico
+NF-009108,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,967.5,True,40.629999999999995,2,Oportunidade - PIS/COFINS Monofásico
+NF-009109,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,ÁGUA MINERAL 500ML,22011000,5102,458.0,True,3.89,1,Oportunidade - PIS/COFINS Monofásico
+NF-009110,EMP-0091,Bebidas Frias,Centro-Oeste,Terceirizada,Simples Nacional,CERVEJA PILSEN 350ML,22030000,5405,45.0,True,1.8900000000000001,2,Oportunidade - PIS/COFINS Monofásico
+NF-009201,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,5940.0,False,0.0,0,Sem Inconsistência
+NF-009202,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,5184.0,False,0.0,0,Sem Inconsistência
+NF-009203,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,245.0,False,0.0,0,Sem Inconsistência
+NF-009204,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1112.5,False,0.0,0,Sem Inconsistência
+NF-009205,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,1584.0,False,0.0,0,Sem Inconsistência
+NF-009206,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,167.5,False,0.0,0,Sem Inconsistência
+NF-009207,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,747.5,False,0.0,0,Sem Inconsistência
+NF-009208,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CANETA ESFEROGRÁFICA AZUL,96081000,5102,505.0,False,0.0,0,Sem Inconsistência
+NF-009209,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,1710.0,False,0.0,0,Sem Inconsistência
+NF-009210,EMP-0092,Comércio Comum / Papelaria,Sul,Interna,Lucro Presumido,CADERNO ESPIRAL 100 FLS,48201000,5102,4734.0,False,0.0,0,Sem Inconsistência
+NF-009301,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,15200.0,False,0.0,0,Sem Inconsistência
+NF-009302,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,35785.0,False,0.0,0,Sem Inconsistência
+NF-009303,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,532.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009304,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,5434.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009305,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,25415.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009306,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,4674.0,False,0.0,0,Sem Inconsistência
+NF-009307,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,12768.0,False,0.0,0,Sem Inconsistência
+NF-009308,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,36480.0,False,0.0,0,Sem Inconsistência
+NF-009309,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,84240.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009310,EMP-0093,Autopeças e Oficinas,Nordeste,Terceirizada,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,8670.0,False,0.0,0,Sem Inconsistência
+NF-009401,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,616.5,False,0.0,0,Sem Inconsistência
+NF-009402,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,796.0,False,0.0,0,Sem Inconsistência
+NF-009403,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,632.0,False,0.0,0,Sem Inconsistência
+NF-009404,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,2560.0,False,0.0,0,Sem Inconsistência
+NF-009405,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,CERVEJA PILSEN 350ML,22030000,5405,2110.5,False,0.0,0,Sem Inconsistência
+NF-009406,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,1680.0,False,0.0,0,Sem Inconsistência
+NF-009407,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,768.0,False,0.0,0,Sem Inconsistência
+NF-009408,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,120.0,False,0.0,0,Sem Inconsistência
+NF-009409,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,352.0,False,0.0,0,Sem Inconsistência
+NF-009410,EMP-0094,Bebidas Frias,Norte,Interna,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5405,240.0,False,0.0,0,Sem Inconsistência
+NF-009501,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,26160.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009502,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,25925.0,False,0.0,0,Sem Inconsistência
+NF-009503,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,31450.0,False,0.0,0,Sem Inconsistência
+NF-009504,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,1020.0,False,0.0,0,Sem Inconsistência
+NF-009505,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,33830.0,False,0.0,0,Sem Inconsistência
+NF-009506,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,8816.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009507,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,2508.0,False,0.0,0,Sem Inconsistência
+NF-009508,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,57600.0,False,0.0,0,Sem Inconsistência
+NF-009509,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,1445.0,False,0.0,0,Sem Inconsistência
+NF-009510,EMP-0095,Autopeças e Oficinas,Sudeste,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,21250.0,False,0.0,0,Sem Inconsistência
+NF-009601,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,10222.0,False,0.0,0,Sem Inconsistência
+NF-009602,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5102,63840.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009603,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,18886.0,False,0.0,0,Sem Inconsistência
+NF-009604,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,12835.0,False,0.0,0,Sem Inconsistência
+NF-009605,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5405,5950.0,False,0.0,0,Sem Inconsistência
+NF-009606,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,12882.0,False,0.0,0,Sem Inconsistência
+NF-009607,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,68880.0,False,0.0,0,Sem Inconsistência
+NF-009608,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,11932.0,False,0.0,0,Sem Inconsistência
+NF-009609,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,PNEU ARO 17 MOTORCYCLE,40114000,5405,10080.0,False,0.0,0,Sem Inconsistência
+NF-009610,EMP-0096,Autopeças e Oficinas,Norte,Interna,Lucro Real,PASTILHA DE FREIO BROS,87083090,5102,29750.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009701,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,192.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009702,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,5400.0,False,0.0,0,Sem Inconsistência
+NF-009703,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,4956.0,False,0.0,0,Sem Inconsistência
+NF-009704,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,5496.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009705,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,3984.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009706,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5102,12628.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009707,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,PERFUME COLONIA 100ML,33030010,5102,33235.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009708,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5102,1320.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009709,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,DIPIRONA SODICA 500MG,30049099,5405,5904.0,False,0.0,0,Sem Inconsistência
+NF-009710,EMP-0097,Farmácia e Cosméticos,Norte,Terceirizada,Lucro Real,SHAMPOO ANTIQUEDA 300ML,33051000,5102,13720.0,True,0.0,1,Alerta Cadastral - CST Incorreto
+NF-009801,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,6004.0,True,252.16,2,Oportunidade - PIS/COFINS Monofásico
+NF-009802,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5102,9600.0,True,81.6,1,Oportunidade - PIS/COFINS Monofásico
+NF-009803,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,5244.0,True,44.57,1,Oportunidade - PIS/COFINS Monofásico
+NF-009804,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,4760.0,True,40.46,1,Oportunidade - PIS/COFINS Monofásico
+NF-009805,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,11400.0,True,96.9,1,Oportunidade - PIS/COFINS Monofásico
+NF-009806,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5405,2394.0,True,100.55000000000001,2,Oportunidade - PIS/COFINS Monofásico
+NF-009807,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,26860.0,True,228.31,1,Oportunidade - PIS/COFINS Monofásico
+NF-009808,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PNEU ARO 17 MOTORCYCLE,40114000,5405,119520.0,True,5019.84,2,Oportunidade - PIS/COFINS Monofásico
+NF-009809,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,ÓLEO LUBRIFICANTE 20W50 1L,27101911,5102,9576.0,True,81.4,1,Oportunidade - PIS/COFINS Monofásico
+NF-009810,EMP-0098,Autopeças e Oficinas,Centro-Oeste,Terceirizada,Simples Nacional,PASTILHA DE FREIO BROS,87083090,5102,23885.0,True,203.02,1,Oportunidade - PIS/COFINS Monofásico
+NF-009901,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,1225.0,False,0.0,0,Sem Inconsistência
+NF-009902,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,6246.0,False,0.0,0,Sem Inconsistência
+NF-009903,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,2142.0,False,0.0,0,Sem Inconsistência
+NF-009904,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,372.5,False,0.0,0,Sem Inconsistência
+NF-009905,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,4248.0,False,0.0,0,Sem Inconsistência
+NF-009906,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,337.5,False,0.0,0,Sem Inconsistência
+NF-009907,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,920.0,False,0.0,0,Sem Inconsistência
+NF-009908,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,5994.0,False,0.0,0,Sem Inconsistência
+NF-009909,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CADERNO ESPIRAL 100 FLS,48201000,5102,7290.0,False,0.0,0,Sem Inconsistência
+NF-009910,EMP-0099,Comércio Comum / Papelaria,Norte,Interna,Lucro Real,CANETA ESFEROGRÁFICA AZUL,96081000,5102,52.5,False,0.0,0,Sem Inconsistência
+NF-010001,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,268.0,False,0.0,0,Sem Inconsistência
+NF-010002,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,1152.0,False,0.0,0,Sem Inconsistência
+NF-010003,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,656.0,False,0.0,0,Sem Inconsistência
+NF-010004,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,304.0,False,0.0,0,Sem Inconsistência
+NF-010005,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,422.0,False,0.0,0,Sem Inconsistência
+NF-010006,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,768.0,False,0.0,0,Sem Inconsistência
+NF-010007,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5405,786.0,False,0.0,0,Sem Inconsistência
+NF-010008,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,798.0,False,0.0,0,Sem Inconsistência
+NF-010009,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,REFRIGERANTE COLA 2L,22021000,5102,2192.0,False,0.0,0,Sem Inconsistência
+NF-010010,EMP-0100,Bebidas Frias,Centro-Oeste,Terceirizada,Lucro Presumido,ÁGUA MINERAL 500ML,22011000,5102,558.0,False,0.0,0,Sem Inconsistência
